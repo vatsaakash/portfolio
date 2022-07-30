@@ -1,0 +1,55 @@
+.intro {
+    display: flex;
+    height: 100vh;
+}
+.intro-left {
+    flex: 1;
+}
+
+.intro-right {
+    flex: 1;
+}
+
+.intro-left-wrapper {
+    padding: 5vh;
+}
+
+.i-intro {
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.i-name {
+    font-size: 55px;
+    border-bottom: 2px solid red;
+}
+.intro-skill{
+    
+    height: 50px;
+    overflow: hidden;
+}
+.intro-skill-items{
+    height: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #59b256;
+    display: flex;
+    align-items: center;
+}
+.intro-skill-wrapper{
+    height: 100%;
+    animation: move 5s ease-in-out infinite alternate;
+}
+
+@keyframes move {
+    33.3333%{
+        transform: translateY(-50px);
+    }
+    66.6666%{
+        transform: translateY(-100px);
+    }
+    99.9999%{
+        transform: translateY(-150px);
+    }
+    
+}
