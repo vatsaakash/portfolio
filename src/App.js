@@ -1,9 +1,7 @@
-import Introduction from './component/Introduction';
+import Introduction from "./component/Introduction";
 
 function App() {
-  return (
-   <Introduction/>
-  );
+  return <Introduction />;
 }
 
 export default App;
