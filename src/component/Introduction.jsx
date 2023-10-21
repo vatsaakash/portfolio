@@ -6,7 +6,7 @@ const Introduction = () => {
       <div className="intro-left">
         <div className="intro-left-wrapper">
           <h2 className="i-intro">Hey, there My name is</h2>
-          <h1 className="i-name">Akash Ranjan </h1>
+          <h1 className="i-name">Akash Ranjan is </h1>
           <div className="intro-skill">
             <div className="intro-skill-wrapper">
               <div className="intro-skill-items">Web Develper</div>
