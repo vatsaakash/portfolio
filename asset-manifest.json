@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.219f9dad.css",
+    "main.js": "/portfolio/static/js/main.74896d72.js",
+    "static/media/akash.png": "/portfolio/static/media/akash.bd9c32a9d39b18ba672f.png",
+    "static/media/React-Developer-Akash-Ranjan.pdf": "/portfolio/static/media/React-Developer-Akash-Ranjan.9e7063baca148a46a4aa.pdf",
+    "static/media/akash2.jpeg": "/portfolio/static/media/akash2.3fca2a7e0d628d9a7b41.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.219f9dad.css.map": "/portfolio/static/css/main.219f9dad.css.map",
+    "main.74896d72.js.map": "/portfolio/static/js/main.74896d72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.219f9dad.css",
+    "static/js/main.74896d72.js"
+  ]
+}
