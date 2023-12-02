@@ -1,0 +1,33 @@
+[
+    {
+      "name": "Node JS",
+      "level": "Experienced",
+      "icon": "https://img.icons8.com/fluency/96/node-js.png"
+    },
+    {
+      "name": "Python",
+      "level": "Experienced",
+      "icon": "https://img.icons8.com/color/96/python--v1.png"
+    },
+    {
+      "name": "Data Structures",
+      "level": "Intermediate",
+      "icon": "https://img.icons8.com/external-outline-andi-nur-abdillah/64/FFFFFF/external-Data-Structure-artificial-intelligence-(outline)-outline-andi-nur-abdillah.png"
+    },
+    {
+      "name": "C/C++",
+      "level": "Basic",
+      "icon": "https://img.icons8.com/color/96/c-plus-plus-logo.png"
+    },
+    {
+      "name": "Mongo DB",
+      "level": "Learningfr",
+      "icon": "https://img.icons8.com/nolan/96/mongo-db.png"
+    },
+    {
+      "name": "Git/Github",
+      "level": "Intermediate",
+      "icon": "https://img.icons8.com/ios-filled/100/github.png"
+    }
+  ]
+  

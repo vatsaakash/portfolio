@@ -1,0 +1,32 @@
+[
+  {
+    "name": "HTML",
+    "level": "Experienced",
+    "icon": "https://img.icons8.com/color/96/000000/html-5--v1.png"
+  },
+  {
+    "name": "CSS / SASS(SCSS)",
+    "level": "Experienced",
+    "icon": "https://img.icons8.com/ios-filled/50/FF00FF/sass.png"
+  },
+  {
+    "name": "JavaScript",
+    "level": "Intermediate",
+    "icon": "https://img.icons8.com/color/96/javascript--v1.png"
+  },
+  {
+    "name": "Bootstrap",
+    "level": "Basic",
+    "icon": "https://img.icons8.com/external-those-icons-flat-those-icons/24/external-Bootstrap-Logo-social-media-those-icons-flat-those-icons.png"
+  },
+  {
+    "name": "Tailwind CSS",
+    "level": "Intermediate",
+    "icon": "https://img.icons8.com/color/96/tailwind_css.png"
+  },
+  {
+    "name": "ReactJS",
+    "level": "Intermediate",
+    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+  }
+]

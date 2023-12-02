@@ -27,7 +27,7 @@
 .experience__content {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  row-gap: 2rem;
+  row-gap: 1rem;
 }
 
 .experience__details {
@@ -39,7 +39,17 @@
   margin-top: 6px;
   color: var(--color-primary);
 }
+.experiance__about__card {
+  text-align: center;
+}
 
+.skill_icon {
+  height: 28px;
+  width: 28px;
+  transform: translate(0%, 50%);
+  margin: auto;
+  margin-bottom: 15px;
+}
 /* MEDIA QUERIES (MEDIUM DEVICES) */
 @media screen and (max-width: 1024px) {
   .experience__container {
