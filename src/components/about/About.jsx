@@ -3,7 +3,6 @@ import "./about.css";
 import profile_picture from "../../assets/akash2.jpeg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
-// import { VscFolderLibrary } from "react-icons/vsc";
 
 const About = () => {
   const calculateAge = (inputDate) => {
@@ -73,7 +72,7 @@ const About = () => {
           <div className="about__cards">
             <article className="about__card">
               <FaAward className="about__icon" />
-              <h5>Experiance</h5>
+              <h5>Experience</h5>
               <small>
               {years} Years, {months} Months, {days} Days<br /> As React Developer
               </small>

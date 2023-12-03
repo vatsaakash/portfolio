@@ -3,7 +3,7 @@ import "./nav.css";
 import { AiOutlineHome } from "react-icons/ai";
 import { AiOutlineUser } from "react-icons/ai";
 import { BiBook } from "react-icons/bi";
-// import { RiServiceLine } from "react-icons/ri";
+import { RiServiceLine } from "react-icons/ri";
 import { BiMessageSquareDetail } from "react-icons/bi";
 import { useState } from "react";
 
@@ -11,9 +11,10 @@ const Nav = () => {
   const [activeNav, setActiveNav] = useState("#");
   return (
     <nav>
+       {/* eslint-disable-next-line */}
       <a
-        href="/"
-        onClick={() => setActiveNav("")}
+        href="#"
+        onClick={() => setActiveNav("#")}
         className={activeNav === "#" ? "active" : ""}
       >
         <AiOutlineHome />
@@ -32,13 +33,13 @@ const Nav = () => {
       >
         <BiBook />
       </a>
-      {/* <a
-        href="#portfolio"
-        onClick={() => setActiveNav("#portfolio")}
-        className={activeNav === "#portfolio" ? "active" : ""}
+      <a
+        href="#project"
+        onClick={() => setActiveNav("#project")}
+        className={activeNav === "#project" ? "active" : ""}
       >
         <RiServiceLine />
-      </a> */}
+      </a>
       <a
         href="#contact"
         onClick={() => setActiveNav("#contact")}
