@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.9be32423.css",
-    "main.js": "/portfolio/static/js/main.10d4c863.js",
+    "main.js": "/portfolio/static/js/main.65713b00.js",
     "static/media/akash.png": "/portfolio/static/media/akash.bd9c32a9d39b18ba672f.png",
     "static/media/portfolio-project.png": "/portfolio/static/media/portfolio-project.95de4b2516d91a06497d.png",
     "static/media/React-Developer-Akash-Ranjan.pdf": "/portfolio/static/media/React-Developer-Akash-Ranjan.9e7063baca148a46a4aa.pdf",
@@ -10,10 +10,10 @@
     "static/media/akash2.jpeg": "/portfolio/static/media/akash2.3fca2a7e0d628d9a7b41.jpeg",
     "index.html": "/portfolio/index.html",
     "main.9be32423.css.map": "/portfolio/static/css/main.9be32423.css.map",
-    "main.10d4c863.js.map": "/portfolio/static/js/main.10d4c863.js.map"
+    "main.65713b00.js.map": "/portfolio/static/js/main.65713b00.js.map"
   },
   "entrypoints": [
     "static/css/main.9be32423.css",
-    "static/js/main.10d4c863.js"
+    "static/js/main.65713b00.js"
   ]
 }
