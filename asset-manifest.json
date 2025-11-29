@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9be32423.css",
-    "main.js": "/portfolio/static/js/main.65713b00.js",
+    "main.css": "/portfolio/static/css/main.a2f2571a.css",
+    "main.js": "/portfolio/static/js/main.aab57bac.js",
     "static/media/akash.png": "/portfolio/static/media/akash.bd9c32a9d39b18ba672f.png",
+    "static/media/Akash_Ranjan_Resume 2025Oct.pdf": "/portfolio/static/media/Akash_Ranjan_Resume 2025Oct.9ae2914363e83f2239bf.pdf",
     "static/media/portfolio-project.png": "/portfolio/static/media/portfolio-project.95de4b2516d91a06497d.png",
-    "static/media/React-Developer-Akash-Ranjan.pdf": "/portfolio/static/media/React-Developer-Akash-Ranjan.9e7063baca148a46a4aa.pdf",
     "static/media/messengerApplication.png": "/portfolio/static/media/messengerApplication.57eaf3d58db43273288a.png",
     "static/media/analogClock.png": "/portfolio/static/media/analogClock.5e16514872a01b98f8d2.png",
     "static/media/akash2.jpeg": "/portfolio/static/media/akash2.3fca2a7e0d628d9a7b41.jpeg",
     "index.html": "/portfolio/index.html",
-    "main.9be32423.css.map": "/portfolio/static/css/main.9be32423.css.map",
-    "main.65713b00.js.map": "/portfolio/static/js/main.65713b00.js.map"
+    "main.a2f2571a.css.map": "/portfolio/static/css/main.a2f2571a.css.map",
+    "main.aab57bac.js.map": "/portfolio/static/js/main.aab57bac.js.map"
   },
   "entrypoints": [
-    "static/css/main.9be32423.css",
-    "static/js/main.65713b00.js"
+    "static/css/main.a2f2571a.css",
+    "static/js/main.aab57bac.js"
   ]
 }
