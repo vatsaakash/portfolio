@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef } from "react";
 import "../portfolio/project.css";
 import { projects } from '../../components/json/projects.js';
 // import imag from "../../assets/portfolio-project.png"
@@ -10,7 +10,6 @@ const Project = () => {
       <h2>Projects</h2>
       <div className="container portfolio__container">
         {projects.map(({ id, image, title, github, demo, brief }) => {
-          console.log('akash img', projects);
           return (
             <article key={id} className="portfolio__item">
               <div className="portfolio__item-image">

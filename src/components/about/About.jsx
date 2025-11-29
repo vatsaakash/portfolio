@@ -55,7 +55,7 @@ const About = () => {
       : [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31][month - 1];
   };
 
-  const inputDate = "2021-09-08";
+  const inputDate = "2021-05-17";
   const { years, months, days } = calculateAge(inputDate);
 
   return (
