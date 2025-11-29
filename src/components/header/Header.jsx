@@ -1,5 +1,4 @@
 import React from "react";
-import "./header.css";
 import CTA from "./CTA";
 import header_picture from "../../assets/akash.png";
 import HeaderSocials from "./HeaderSocials";

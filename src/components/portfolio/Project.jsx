@@ -1,5 +1,4 @@
 import React from "react";
-import "../portfolio/project.css";
 import { projects } from '../../components/json/projects.js';
 // import imag from "../../assets/portfolio-project.png"
 

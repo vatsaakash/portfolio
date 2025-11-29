@@ -1,5 +1,4 @@
 import React from "react";
-import "./about.css";
 import profile_picture from "../../assets/akash2.jpeg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";

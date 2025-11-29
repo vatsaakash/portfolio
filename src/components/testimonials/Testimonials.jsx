@@ -1,5 +1,4 @@
 import React from "react";
-import "./testimonials.css";
 import AVTR1 from "../../assets/bastian.jpg";
 import AVTR2 from "../../assets/marie.jpg";
 import AVTR3 from "../../assets/ksenia.jpg";

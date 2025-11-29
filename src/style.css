@@ -1,0 +1,14 @@
+/* Centralized CSS imports */
+
+/* Base styles */
+@import "./index.css";
+
+/* Component styles */
+@import "./components/about/about.css";
+@import "./components/contact/contact.css";
+@import "./components/experience/experience.css";
+@import "./components/footer/footer.css";
+@import "./components/header/header.css";
+@import "./components/nav/nav.css";
+@import "./components/portfolio/project.css";
+@import "./components/testimonials/testimonials.css";

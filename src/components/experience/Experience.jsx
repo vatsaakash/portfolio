@@ -1,5 +1,4 @@
 import React from "react";
-import "./experience.css";
 import frontEndSkills from "../json/frontendSkill.json";
 import backEndSkills from "../json/backendSkill.json";
 

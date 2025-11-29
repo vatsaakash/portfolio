@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import "./contact.css";
 import { MdOutlineEmail } from "react-icons/md";
 import { BsLinkedin } from "react-icons/bs";
 import emailjs from "emailjs-com";
